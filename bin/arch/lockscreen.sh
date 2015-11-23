@@ -32,4 +32,4 @@ then
 fi
 # dbus-send --print-reply --dest=org.mpris.MediaPlayer2.spotify /org/mpris/MediaPlayer2 org.mpris.MediaPlayer2.Player.Stop
 # i3lock  -I 10 -d -e -u -n -i /tmp/screen.png
-i3lock -e -u -n -i /tmp/screen.png
+$HOME/bin/i3lock -n -i /tmp/screen.png --textcolor=ffffff00 --insidecolor=ffffff1c --ringcolor=ffffff3e --linecolor=ffffff00 --keyhlcolor=00000080 --ringvercolor=00000000 --insidevercolor=0000001c --ringwrongcolor=88000055 --insidewrongcolor=0000001c 
